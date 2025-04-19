@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Chinmay-Tandon
-- 👀 I’m interested in exploring data and processing it to find some meaning from it.
-- 🌱 I’m currently learning data analysis.
-- 💞️ I’m looking to collaborate on a new projects for data analyst.
-- 📫 How to reach me. You can reach me on my email- chinmay.tandon.3008@gmail.com or my mobile phone- +91 86998-22115
+- 👀 I’m interested in exploring devops and build and host some project on a cloud server on my own.
+- 🌱 I’m currently learning devops.
+- 💞️ I’m looking to collaborate on a new projects for devops.
+- 📫 How to reach me. You can reach me on my email- chinmay.tandon.3008@gmail.comhttps://github.com/Chinmay-Tandon/Chinmay-Tandon/blob/main/README.md
 
 <!---
 Chinmay-Tandon/Chinmay-Tandon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
